@@ -1,0 +1,10 @@
+# This file is managed by chef! Override node.default["git_pairs_authors"] in attributes/git_pairs.rb to modify.
+
+pairs:
+  gs: Gal Steinitz
+  qp: Quintan Park
+
+email:
+  prefix: ajam-dev+pair
+  domain: googlegroups.com
+
